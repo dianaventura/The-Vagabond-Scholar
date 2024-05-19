@@ -1,3 +1,12 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://dianaventura.github.io/'
+languageCode = 'en-gb'
+title = 'hugo-bearblog'
+copyright = "Copyright © 2020, Diana Ventura Valdivia."
+
+[params]
+  author = "Diana Ventura Valdivia"
+  description = "A simple, calm blog"
+  showDarkMode = true
+
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true

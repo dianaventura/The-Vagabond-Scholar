@@ -7,7 +7,7 @@ title = "Hugo ʕ•ᴥ•ʔ Bear"
 
 # A match made in heaven
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing readers down. This blog aims to contribute to the internet calmly. 
 
 Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
 
@@ -19,10 +19,8 @@ What happens when you combine the worlds' fastest, most lightweight static site 
 
 **Use this theme, and find out!**
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+Made with 💟 by [Diana Ventura ].
 
 ---
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+Happy Reading 
