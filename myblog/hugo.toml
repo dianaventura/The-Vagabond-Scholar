@@ -1,7 +1,7 @@
 baseURL = 'https://dianaventura.github.io/'
 languageCode = 'en-gb'
-title = 'hugo-bearblog'
-copyright = "Copyright © 2020, Diana Ventura Valdivia."
+title = 'the-Penniless-Scholar'
+copyright = "Copyright © 2024, Diana Ventura Valdivia."
 
 [params]
   author = "Diana Ventura Valdivia"

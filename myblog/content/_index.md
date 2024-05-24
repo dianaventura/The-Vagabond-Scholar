@@ -2,10 +2,15 @@
 # This title is used as the og:title on Hugo's internal
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Diana's Reading Blog"
+title = "thePennilessScholar"
 +++
 
-# This part is under construction
+# UH HI
+
+Dear Sweet Reader, 
+
+This page is under construction. Come back l8er. 
+
 
 There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing readers down. This blog aims to contribute to the internet calmly. 
 
