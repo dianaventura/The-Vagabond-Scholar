@@ -2,10 +2,10 @@
 # This title is used as the og:title on Hugo's internal
 # opengraph structured data template on the home page.
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-title = "Hugo ʕ•ᴥ•ʔ Bear"
+title = "Diana's Reading Blog"
 +++
 
-# A match made in heaven
+# This part is under construction
 
 There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing readers down. This blog aims to contribute to the internet calmly. 
 
