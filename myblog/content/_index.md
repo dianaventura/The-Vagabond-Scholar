@@ -19,7 +19,7 @@ What happens when you combine the worlds' fastest, most lightweight static site 
 
 **Use this theme, and find out!**
 
-Made with 💟 by [Diana Ventura ].
+Made with 💟 by [Diana!Ventura!! ].
 
 ---
 
