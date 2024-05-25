@@ -11,10 +11,11 @@ Dear Sweet Reader,
 
 This page is under construction. Come back l8er. 
 
+Welcome to my blog, where books meet computational linguistics in the most interesting ways.
 
 There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing readers down. This blog aims to contribute to the internet calmly. 
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+Inspired by the principles of Calm Technology, I’m keeping this space simple and focused on meaningful content.
 
 [Go to the original bear blog](https://bearblog.dev/).
 
